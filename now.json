@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "alias": ["saika-theme-portfolio-demo.saika.dev"],
   "builds": [
     {
       "src": "*",
