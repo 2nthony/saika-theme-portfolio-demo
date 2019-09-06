@@ -1,6 +1,6 @@
 # @saika/theme-portfolio demo
 
-![](https://i.loli.net/2019/08/15/I7EAXTPBGOszx8m.png)
+![](https://i.loli.net/2019/09/06/tgkvYqAFfhpHX4Q.png)
 
 ## Introduction
 
