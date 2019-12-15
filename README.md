@@ -5,3 +5,7 @@
 ## Introduction
 
 Create a personal portfolio website with saika.
+
+## Credit
+
+[saberland/create-portfolio](https://github.com/saberland/create-portfolio)
