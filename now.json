@@ -3,7 +3,7 @@
   "alias": ["saika-theme-portfolio-demo.saika.dev"],
   "builds": [
     {
-      "src": "*",
+      "src": "**/*.{md,js,html}",
       "use": "@now/static"
     }
   ],
