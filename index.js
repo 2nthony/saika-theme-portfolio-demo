@@ -1,7 +1,10 @@
 new Saika({
   target: 'app',
   plugins: [
-    saikaThemePortfolio
+    saikaThemePortfolio,
+    saikaDisqus({
+      shortname: 'saika-theme-portfolio-demo'
+    })
   ],
   github: 'evillt',
   twitter: 'evillt',
@@ -37,7 +40,7 @@ new Saika({
   posts: [
     {
       title: 'my-first-post',
-      link: '/my-first-post'
+      link: '/posts/my-first-post'
     }
   ]
 })
