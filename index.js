@@ -1,46 +1,46 @@
 new Saika({
-  target: 'app',
+  target: "app",
   plugins: [
     saikaThemePortfolio,
     saikaDisqus({
-      shortname: 'saika-theme-portfolio-demo'
-    })
+      shortname: "saika-theme-portfolio-demo",
+    }),
   ],
-  github: 'evillt',
-  twitter: 'evillt',
+  github: "2nthony",
+  twitter: "2nthony",
   hireable: true,
-  sponsorLink: 'https://patreon.com/evillt',
-  sponsorTip: 'support me with love!',
+  sponsorLink: "https://patreon.com/2nthony",
+  sponsorTip: "support me with love!",
   follow: true,
-  repos: 'pinned-repos',
+  repos: "pinned-repos",
   skills: [
     {
-      topic: 'vue',
-      description: `I contribute to Vue ecosytem every a few days.`
+      topic: "vue",
+      description: `I contribute to Vue ecosytem every a few days.`,
     },
     {
-      topic: 'nodejs',
-      description: `I use Node.js to fit-up my stuff.`
+      topic: "nodejs",
+      description: `I use Node.js to fit-up my stuff.`,
     },
     {
-      topic: 'github',
-      description: `I'm not pretty good at GitHub ecosystem.`
-    }
+      topic: "github",
+      description: `I'm not pretty good at GitHub ecosystem.`,
+    },
   ],
   nav: [
     {
-      title: 'Home',
-      link: '/'
+      title: "Home",
+      link: "/",
     },
     {
-      title: 'About',
-      link: '/about'
-    }
+      title: "About",
+      link: "/about",
+    },
   ],
   posts: [
     {
-      title: 'my-first-post',
-      link: '/posts/my-first-post'
-    }
-  ]
-})
+      title: "my-first-post",
+      link: "/posts/my-first-post",
+    },
+  ],
+});

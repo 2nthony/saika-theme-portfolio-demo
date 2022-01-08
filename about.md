@@ -19,7 +19,7 @@ Create `index.html`:
   <script>
     new Saika({
       target: 'app',
-      github: 'evillt', // replace with your github username
+      github: '2nthony', // replace with your github username
       plugins: [
         saikaThemePortfolio
       ]
